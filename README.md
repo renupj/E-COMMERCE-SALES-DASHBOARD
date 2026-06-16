@@ -55,7 +55,8 @@ Highlighted opportunities for business growth and optimization.
 ├── 🖼️ Dashboard Screenshot.png
 └── 📜 README.md
 
-AUTHOR 
+AUTHOR
+
 PJ Renu
 * Aspiring Data Analyst
 * Skilled in Power BI, SQL, Excel, Python, and Data Visualization
