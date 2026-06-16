@@ -54,3 +54,8 @@ Highlighted opportunities for business growth and optimization.
 ├── 📄 Dataset.xlsx
 ├── 🖼️ Dashboard Screenshot.png
 └── 📜 README.md
+
+AUTHOR 
+PJ Renu
+* Aspiring Data Analyst
+* Skilled in Power BI, SQL, Excel, Python, and Data Visualization
